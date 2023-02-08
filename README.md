@@ -11,6 +11,4 @@ K. R. Harrison, B. M. Ombuki-Berman, and A. P. Engelbrecht, “A parameter-free 
 
 A. Engelbrecht, “Particle swarm optimization: Global best or local best?,” in Proceedings of the Congress on Computational Intelligence and Brazilian Congress on Computational Intelligence, pp. 124–135, IEEE, 2013.
 
-Function implementations are based on:
-
-Dr. Kyle Robert Harrison: https://github.com/krharrison/SwiftPSO-v1/tree/8c48809be39f82f1359a042bd79b2dd3fd9baf0d/SwiftPSO.Benchmarks
+Function implementations are based on https://github.com/krharrison/SwiftPSO-v1/tree/8c48809be39f82f1359a042bd79b2dd3fd9baf0d/SwiftPSO.Benchmarks by Dr. Kyle Robert Harrison.
