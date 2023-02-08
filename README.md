@@ -10,3 +10,7 @@ C. Dennis, B. M. Ombuki-Berman, and A. Engelbrecht, “Predicting particle swarm
 K. R. Harrison, B. M. Ombuki-Berman, and A. P. Engelbrecht, “A parameter-free particle swarm optimization algorithm using performance classifiers,” Information Sciences, vol. 503, pp. 381–400, 2019.
 
 A. Engelbrecht, “Particle swarm optimization: Global best or local best?,” in Proceedings of the Congress on Computational Intelligence and Brazilian Congress on Computational Intelligence, pp. 124–135, IEEE, 2013.
+
+Function implementations are based on:
+
+Dr. Kyle Robert Harrison: https://github.com/krharrison/SwiftPSO-v1/tree/8c48809be39f82f1359a042bd79b2dd3fd9baf0d/SwiftPSO.Benchmarks
